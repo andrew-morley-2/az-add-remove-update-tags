@@ -12,6 +12,7 @@ In the scenario for this project, the finance department has reached out to you,
 <h2>Languages and/or Utilities Used</h2>
 
 - <b>Azure Portal</b> 
+<br/>
 - <b>Azure Cloud Shell</b> 
 
 
