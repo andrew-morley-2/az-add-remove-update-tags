@@ -21,12 +21,45 @@ In the scenario for this project, the finance department has reached out to you,
 <h2>Walkthrough:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+<b>Add Tags to the Resource Group</b>
+<br/>
+<br/>
+- In Azure Cloud Shell, perform the command to list all resource groups for this lab.
+<br/>
+- Perform the CLI command that will apply the following tags to the resource group (replace YourName with your name):
+Environment=Production
+Dept=IT
+CreatedBy=YourName <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+
+<b>Remove Tags for VM and Mark for Deletion</b>
+<br />
+<br />
+- Perform the CLI command to list the existing tags for the virtual machines in this lab.
+<br/>
+- Remove the existing tags from the VM.
+<br/>
+- Mark the VM for deletion by adding the tag MarkForDeletion=Yes.
+CreatedBy=YourName <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+<b>Change Tags for the Virtual Network</b>
+<br/>
+<br/>
+- Perform the CLI command to list the virtual networks and their associated tags
+<br/>
+- Perform the CLI command to overrite the existing tags with the following tags (replace YourName with your name):
+Environment=Production
+Dept=IT
+CreatedBy=YourName
+Dept=IT
+CreatedBy=YourName <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
