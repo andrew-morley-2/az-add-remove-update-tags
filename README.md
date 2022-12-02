@@ -30,7 +30,7 @@ In the scenario for this project, the finance department has reached out to you,
 Environment=Production
 Dept=IT
 CreatedBy=YourName <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ulQwtCB.jpeg" height="80%" width="80%" alt="Add, Remove and Update Tags for Resources in Azure 1.1"/>
 <br />
 <br />
 
@@ -40,10 +40,12 @@ CreatedBy=YourName <br/>
 - Perform the CLI command to list the existing tags for the virtual machines in this lab.
 <br/>
 - Remove the existing tags from the VM.
+<img src="https://i.imgur.com/QJ8f60o.jpeg" height="80%" width="80%" alt="Add, Remove and Update Tags for Resources in Azure 2.1"/>
+<br/>
 <br/>
 - Mark the VM for deletion by adding the tag MarkForDeletion=Yes.
 CreatedBy=YourName <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/830eDEy.jpeg" height="80%" width="80%" alt="Add, Remove and Update Tags for Resources in Azure 2.2"/>
 <br />
 <br />
 
@@ -58,7 +60,7 @@ Dept=IT
 CreatedBy=YourName
 Dept=IT
 CreatedBy=YourName <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/830eDEy.jpeg" height="80%" width="80%" alt="Add, Remove and Update Tags for Resources in Azure 3.1"/>
 
 </p>
 
