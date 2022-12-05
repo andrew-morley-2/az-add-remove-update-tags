@@ -5,7 +5,7 @@
  --!>
 
 <h2>Description</h2>
-In the scenario for this project, the finance department has reached out to you, requesting additional taxonomy information on a recent Azure bill, including who created the resources, which department budget should be used for the resources and if the resources are necessary for running business ciritcal systems. If there are any non-essential business systems, they ask that you signify that in some way.
+In the scenario for this lab, the finance department has reached out to you, requesting additional taxonomy information on a recent Azure bill, including who created the resources, which department budget should be used for the resources and if the resources are necessary for running business ciritcal systems. If there are any non-essential business systems, they ask that you signify that in some way.
 <br />
 
 
